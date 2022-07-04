@@ -1,0 +1,28 @@
+body{
+    margin: 0px 15%;
+}
+
+header{
+    padding: 2%;
+    border: solid;
+    border-width: 0px 0px 1px 0px;
+    border-color: grey;
+}
+
+aside{
+    padding: 2%;
+
+}
+
+
+main{
+    padding: 10%;
+}
+
+.ico{
+    float: left;
+    text-decoration: none;
+    color:black;
+    font-size: 1.6rem;
+    font-weight: bold;
+}
