@@ -19,6 +19,14 @@ main{
     padding: 10%;
 }
 
+footer{
+    padding: 2%;
+    border: solid;
+    border-width: 1px 0px 0px 0px;
+    border-color: grey;
+}
+
+
 .ico{
     float: left;
     text-decoration: none;
